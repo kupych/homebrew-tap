@@ -1,8 +1,8 @@
 class Rapid < Formula
   desc "Rapid API Dialogue - A REPL for APIs"
   homepage "https://github.com/kupych/rapid"
-  url "https://github.com/kupych/rapid/archive/v0.1.0.tar.gz"
-  sha256 "d0d86215ce52e4ac3adddc298ade1b422ba4a65c7b49302c3e351914a5a4f4e3"
+  url "https://github.com/kupych/rapid/archive/v0.1.1.tar.gz"
+  sha256 "aced2f798e618e375af080ba450f9802c7dffe5eefbd1999995750b0ccf8e7ae"
   license "MIT"
 
   depends_on "go" => :build
